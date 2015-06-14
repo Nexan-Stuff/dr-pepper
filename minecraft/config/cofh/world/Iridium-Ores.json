@@ -1,0 +1,21 @@
+{
+    "iridium": {
+        "template": "normal",
+        "block": {
+            "name": "iridiummod:Iridium Ore",
+            "metadata": 0
+        },
+        "clusterSize": 4,
+        "numClusters": 4,
+        "meanHeight": 35,
+        "maxVariance": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}

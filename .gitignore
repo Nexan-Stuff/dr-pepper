@@ -1,0 +1,17 @@
+minecraft/crash-reports/
+minecraft/saves/
+minecraft/logs/
+minecraft/resourcepacks/
+minecraft/screenshots/
+minecraft/texturepacks/
+minecraft/backups/
+minecraft/icon.png
+minecraft/options.txt
+minecraft/usernamecache.json
+minecraft/servers.dat
+minecraft/usercache.json
+minecraft/minetweaker.log
+minecraft/journeymap
+patches/
+.packignore
+instance.cfg
